@@ -3,7 +3,7 @@
 -  Operador
 -  Reserva
 -  Intervención
-#------------------------------------------------
+# ------------------------------------------------
 De el cliente se sabe (nombre, apellido,edad...)
 De el operador se sabe (nombre, apellido, turno...)
 De la reserva se sabe (sala, dia, hora, operador, tipo de intervencion ...)
