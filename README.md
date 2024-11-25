@@ -11,4 +11,4 @@ De la intervencion se sabe (Importe, aparato, ...)
 
 La clinica anota reservas se intervencion compatibles.
 
-![image](https://github.com/user-attachments/assets/73bae316-8cd0-4970-9312-ca438e0a8d70)
+![image](https://github.com/user-attachments/assets/14f5a6a1-0a58-4e0a-b42e-531f00dee446)
