@@ -4,10 +4,10 @@
 -  Reserva
 -  Intervención
 # ------------------------------------------------
-  De el cliente se sabe (nombre, apellido,edad...)
-  De el operador se sabe (nombre, apellido, turno...)
-  De la reserva se sabe (sala, dia, hora, operador, tipo de intervencion ...)
-  De la intervencion se sabe (Importe, aparato, ...)
+- De el cliente se sabe (nombre, apellido,edad...)
+- De el operador se sabe (nombre, apellido, turno...)
+- De la reserva se sabe (sala, dia, hora, operador, tipo de intervencion ...)
+- De la intervencion se sabe (Importe, aparato, ...)
 
 La clinica anota reservas se intervencion compatibles.
 
